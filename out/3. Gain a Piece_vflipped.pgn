@@ -1,0 +1,13 @@
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "156"]
+[Black "?"]
+[Result "*"]
+[FEN "8/8/2k5/8/2K5/8/r7/2R5 w - - 0 1"]
+[PlyCount "3"]
+[SetUp "1"]
+
+1. Kb3+ Kd5 2. Kxa2 *
+

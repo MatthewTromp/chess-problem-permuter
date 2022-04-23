@@ -1,0 +1,1170 @@
+﻿[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "151"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n6/4k2p/2Q3p1/5p2/8/8/7r/3K4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qc7+ Nd7 2. Qxh2 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "152"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/1p6/2p2k2/2P5/1P6/r5PR/6K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. g4+ Kxg4 2. Rxa2 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "153"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k3/pp3pp1/4p3/6P1/1b6/5K2/PPP2PP1/R1BQ1B1r w q - 0 1"]
+[PlyCount "3"]
+
+1. Bb5+ Ke7 2. Qxh1 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "154"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/r7/1p6/1P6/8/k5BR/3K4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bb7+ Kb3 2. Bxa6 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "155"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/5p1p/1p4p1/rP6/7P/4B1P1/5PK1/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bxb6+ Kc8 2. Bxa5 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "156"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/r7/8/2K5/8/2k5/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Kb6+ Kd4 2. Kxa7 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "157"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppp1p1p/6p1/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 0 1"]
+[PlyCount "3"]
+
+1. Qxe5+ Qe7 2. Qxh8 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "158"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rbR4/1p4kp/p4qp1/4r3/8/2Q1P3/P4PPP/3R2K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qc7+ Kh6 2. Qxb8 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "159"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1bnr/2pp1kpp/p7/1p2Q3/3pP3/8/PPPP1PPP/RNB1K2R w KQ - 0 1"]
+[PlyCount "3"]
+
+1. Qd5+ Ke8 2. Qxa8 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "160"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1pp2pp1/3p2qp/8/r7/2P4P/PP3PP1/R3Q1K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qe8+ Kh7 2. Qxa4 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "161"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kb1r/r1p2ppp/p1b2q1n/4p1N1/4P3/1QP5/PP3PPP/RNB1K2R w KQk - 0 1"]
+[PlyCount "3"]
+
+1. Qb8+ Qd8 2. Qxa7 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "162"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4q2p/pnbr1p2/1pp2p2/4P3/1P3P2/P1P2QPP/3R2K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qg3+ Kf7 2. Qxd6 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "163"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb1r1k1/1pq2pb1/p2p1np1/4n2p/2P5/BP2P1PP/P3NPB1/2RQ1RK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bxd6 Qb6 2. Bxb8 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "164"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4q3/4p3/8/P3kpR1/2Q4P/5rPK/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qe1+ Kd3 2. Qxf2 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "165"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/p1p2pp1/1p5p/8/4r3/1B5P/PP3PP1/R4RK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bd5 Re2 2. Bxa8 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "166"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp2rRb1/1np1q1p1/3p4/3P4/2P3QP/PP4PB/6K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh4+ Kg8 2. Rxe7 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "167"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1pNn3p/1qpP1pp1/p7/P7/2Q3P1/1PP1rPK1/R2R4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qc4+ Kg7 2. Qxe2 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "168"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/3b1pk1/3B2p1/p2P3p/q6P/1r3B2/5PP1/4R1K1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Bd1 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "169"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3qr1k/pp4pp/1bn5/6R1/2Q1p2N/1N2P1B1/PP4PP/5RK1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Bxe3+ 2. Bf2 Bxg5 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "170"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3kr3/1p2qp2/3b1p1R/1p1p1P2/1P1P2p1/P1r5/R1P1NKP1/3Q4 b - - 0 1"]
+[PlyCount "3"]
+
+1... Qe3+ 2. Kf1 Qxh6 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "171"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/p1b1pn2/q7/P1B1PQ2/R1P2P2/6PP/1R4K1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Qc5+ 2. Kh1 Qxa3 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "172"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pb1R1ppk/1p5p/7q/4pQ2/1P6/P4PPP/5K2 b - - 0 1"]
+[PlyCount "3"]
+
+1... Qb5+ 2. Ke1 Qxd7 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "173"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p4ppp/2q5/8/3p4/PRnP1P2/3B2PP/2Q1K3 b - - 0 1"]
+[PlyCount "3"]
+
+1... Qe6+ 2. Kf1 Qxb3 *
+
+[Event "Gain a rook"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "174"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5p2/2pPq1p1/p1P3Qn/P7/2P2R2/6K1/1R6 b - - 0 1"]
+[PlyCount "3"]
+
+1... Qa2+ 2. Rf2 Qxb1 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "175"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/p3pppp/1p6/2p5/4n2B/2P2N2/PP2PPPP/RN1QKB1R w KQkq - 0 1"]
+[PlyCount "3"]
+
+1. Qa4+ Bd7 2. Qxe4 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "176"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p3n1p/1R1p1qp1/2nP1p2/2P2p2/4Q2P/2B3P1/4R1K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qxc5 dxc5 2. Rxf6 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "177"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5n2/p6k/1p5p/4B1p1/P1B1n3/2P5/6PP/6K1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Bd3 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "178"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/ppp2ppp/3Pb3/7n/5p2/5N2/PPPPQ1PP/RNB1KB1R w KQkq - 0 1"]
+[PlyCount "3"]
+
+1. Qb5+ c6 2. Qxh5 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "179"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/ppp1bppp/4b3/3qP3/4n3/3B4/PP3PPP/RNBQ1RK1 w kq - 0 1"]
+[PlyCount "3"]
+
+1. Qa4+ Bd7 2. Qxe4 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "180"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k1r/pb5p/4p1p1/2n1P3/qp3N2/8/PP3PPP/R2Q1RK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nxe6+ Ke8 2. Nxc5 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "181"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/5pp1/7p/8/2n5/P4P1P/1P4PK/6Q1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qc5 Rb8 2. Qxc4 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "182"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/1pq1b1pp/p4n2/2P2p2/1n1P4/4P1P1/PB1N1PBP/R2Q1RK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qb3+ Kh8 2. Qxb4 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "183"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/1k1r4/pn3pp1/7p/3r3P/6B1/5PP1/1R4K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rb8+ Ka7 2. R8xb6 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "184"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/pb1qp2p/1p1p4/4n2n/2PQ1p2/1PN2P2/P1N1B1PP/2RR2K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qxe5 dxe5 2. Rxd7 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "185"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pb1n4/6k1/2pp1p2/5PP1/1P2P1K1/P2r4/1BR5 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bxf5+ Kf6 2. Bxd7 *
+
+[Event "Gain a knight"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "186"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k2/p1n4n/1p2p2p/3pP3/2pP2Q1/2P5/PP4PP/6K1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Qg6 *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "187"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b5/ppp1nkpp/8/b7/3P4/4p2P/PPP3P1/R2Q2K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh5+ Ke6 2. Qxa5 *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "188"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2bRpkp/2r2np1/3pQ3/p2P4/P4BNP/1q3PP1/6K1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Rxd7 *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "189"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/1r3p1p/p1R3pk/2pN2b1/8/r3PPP1/5P2/6K1 w - - 0 1"]
+[PlyCount "1"]
+
+1. f4 *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "190"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/pp1R1ppk/1q2p2p/4P3/1P1b4/P1N5/4QPPP/R5K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qd3+ (1. Qe4+ Kg8 2. Qxd4) 1... Kg8 2. Qxd4 *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "191"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/pp1b1q1p/4p3/4bpB1/5N2/P2P2QP/1P4P1/R4R1K w - - 0 1"]
+[PlyCount "3"]
+
+1. Bf6+ Kf8 2. Bxe5 *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "192"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1kb1r/pp2pppp/4n3/8/1pq1P3/5N2/PB1PNPPP/R2Q1K1R w kq - 0 1"]
+[PlyCount "3"]
+
+1. Rc1 Qxa2 2. Rxc8+ *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "193"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R3b1k1/1r2rpp1/2p4p/8/2B5/1P4P1/2P2P2/4RK2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rxe8+ Rxe8 2. Rxe8+ *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "194"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/1b2bp2/pp5k/2p5/3p1PQ1/1P2P3/P1PP2PP/R5K1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Qd7 *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "195"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3kp1/p1p4p/P2bp3/8/2Q2BP1/1P2PPKP/3q4 w - - 0 1"]
+[PlyCount "1"]
+
+1. e4 *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "196"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/1pR3pP/2b3Qq/p7/8/8/P4P2/5NK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rxc6 Qxg6+ (1... bxc6 2. Qxe8+) 2. Rxg6 *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "197"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1krq3r/ppp2b1p/2n2bp1/4p3/6NP/P1N5/1PP1QPP1/K1R2B1R w - - 0 1"]
+[PlyCount "1"]
+
+1. Qf3 *
+
+[Event "Gain a bishop"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "198"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/1p2qp2/1p2b1pp/3pN3/2pP1P2/4b3/PPQ3PP/RB3R1K w - - 0 1"]
+[PlyCount "1"]
+
+1. Qc3 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "199"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp4b1/1n1r1p2/2p1pNp1/2P1P3/1P3qB1/P3R3/3Q2K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rh2+ Kg8 2. Qxf3 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "200"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/5p1p/5kp1/3P4/3q4/7P/5rPK/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh8+ Ke7 2. Qxd4 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "201"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5qk1/6np/4p3/4P3/3PB3/5QP1/6K1/r7 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bxh7+ Kxh7 2. Qxf8 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "202"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3bnr/pbp2kpp/1p2p3/8/2Pq4/2NB4/PP3PPP/R1BQK2R w KQ - 0 1"]
+[PlyCount "3"]
+
+1. Bg6+ Kxg6 2. Qxd4 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "203"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2k2/pppn1rq1/3p2BQ/3p4/3P4/8/PPP2PPP/R3R1K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Re8+ Kxe8 2. Qxg7 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "204"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Qqk1/5pp1/p4b1p/1p6/1P6/P6P/B4PP1/6K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bxf7+ Kh7 2. Qxf8 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "205"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4q1k1/1pR3b1/3p4/Br1P1Qp1/3p4/pP3P1P/P5P1/1K6 w - - 0 1"]
+[PlyCount "1"]
+
+1. Rc8 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "206"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/p2k1p2/4pP1b/1p1pP3/1P1q3p/P1R5/1Q4KP/4B3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rc7+ Rxc7 2. Qxd4 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "207"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb4r/pp2bkpp/2p2pn1/q3P2Q/5p2/P7/1BPP2PP/RN2K1NR w KQ - 0 1"]
+[PlyCount "3"]
+
+1. e6+ Bxe6 2. Qxa5 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "208"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kb5/1pq4p/6p1/8/8/1P4Q1/P4B1P/6K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ba7+ Kxa7 2. Qxc7 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "209"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/1p1kbQp1/p3q3/3p3p/8/3B4/P2B1PPP/5RK1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Bf5 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "210"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k1r/1b3pp1/5b1p/p1q1N3/1p6/3B4/PPPBQ1PP/4R2K w - - 0 1"]
+[PlyCount "3"]
+
+1. Nd7+ Kg8 2. Nxc5 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "211"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/p3pp1p/2p2np1/4p3/2B5/2N5/PPP2PPP/R1BQK2R w KQkq - 0 1"]
+[PlyCount "3"]
+
+1. Bxf7+ Kxf7 2. Qxd8 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "212"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/7p/R7/1p6/8/6B1/3q2PP/7K w - - 0 1"]
+[PlyCount "3"]
+
+1. Rd6+ Qxd6 2. Bxd6 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "213"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/3qbp1p/4R1p1/4p1P1/2p1P1Q1/2P1B1P1/5PK1/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rxg6+ hxg6 2. Qxd7 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "214"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/3qp1b1/n1p1k1p1/pp5p/2nPN3/P5Q1/1PP3PP/2BR3K w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh3+ Kf7 2. Qxd7 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "215"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r4/pp3nkp/2p2qp1/5p2/2PN4/1P5P/PQ3PP1/R1K2R2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ne6+ Kg8 2. Qxf6 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "216"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1kbnr/ppp1pppp/2q5/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 1"]
+[PlyCount "1"]
+
+1. Bb5 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "217"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2ppp/2nb4/8/2P5/5N1P/PP2PKP1/RNBQ1B1R b - - 0 1"]
+[PlyCount "3"]
+
+1... Bg3+ 2. Kxg3 Qxd1 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "218"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3r2/Q5p1/p2kpb2/1p1p4/6P1/3B1K1P/PP3P2/7R b - - 0 1"]
+[PlyCount "1"]
+
+1... Bd4+ *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "219"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1k2/bp3p2/p2p4/5B1p/1P1p3P/P5P1/2P1Q3/3R1RK1 b - - 0 1"]
+[PlyCount "3"]
+
+1... d3+ 2. Qf2 Bxf2+ *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "220"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppppqppp/8/8/1bPQ4/2N3P1/PP2PKBP/R1B4R b kq - 0 1"]
+[PlyCount "1"]
+
+1... Bc5 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "221"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2ppbp/2n3p1/q2P4/4P3/4BN2/P2Q1PPP/1R2KB1R b K - 0 1"]
+[PlyCount "1"]
+
+1... Bc3 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "222"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q1b1kb1r/1p1n2pp/2n1pq2/1p1p4/3P4/2P2N2/PP1N1PPP/R1B1K2R b KQk - 0 1"]
+[PlyCount "1"]
+
+1... Nb6 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "223"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/7p/p2p4/3Pp2b/P1BpQp2/5P1q/1P6/1K2N3 b - - 0 1"]
+[PlyCount "1"]
+
+1... Bg6 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "224"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1b3ppp/pQq1p3/8/N1PB2n1/P6r/5PPb/R3RB1K b - - 0 1"]
+[PlyCount "3"]
+
+1... Bc7+ 2. Kg1 Bxb6 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "225"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/3p3p/1B2p1n1/RPP5/4P2q/5Q2/6K1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Nf3+ 2. Qxf3 Qxf3 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "226"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1pb3p1/p1p3qp/P1Pn4/1P1BN3/3Q2PP/5PK1/4R1N1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Nf4+ 2. Kh2 Nxd3 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "227"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/p4ppp/1p6/1Pp3q1/3P2Bn/2N1P2P/3Q1P1P/1R3RK1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Nf3+ 2. Kh1 Nxd2 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "228"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p2/4p1p1/7p/5P2/1P3BKP/P4QP1/6q1 b - - 0 1"]
+[PlyCount "3"]
+
+1... h4+ 2. Kxh4 Qxf2+ *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "229"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/4N1pp/p1b2p2/1pnp1Nq1/6P1/2B5/PP3P1P/3QR1K1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Bd2 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "230"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5P1k/4q3/8/8/8/5KP1/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. f8=N+ Kg7 2. Nxe6+ *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "231"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp5p/2p3pQ/8/3P4/4q2P/PP4P1/5R1K w - - 0 1"]
+[PlyCount "3"]
+
+1. Rf8+ Rxf8 2. Qxe3 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "232"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bk1b1r/p1pp2pp/2p2p2/2q3B1/3N4/2P5/PP3PPP/R2QR1K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ne6+ Ke8 2. Nxc5+ *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "233"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/p2bk1p1/2pq1p1n/4n2p/4P3/1BN1B2P/PPP2QP1/6KR w - - 0 1"]
+[PlyCount "1"]
+
+1. Bc5 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "234"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/1p1b1p1p/p4Q2/3N1p2/8/8/PPP3PP/R6K w - - 0 1"]
+[PlyCount "3"]
+
+1. Ne7+ Qxe7 2. Qxe7 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "235"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqr1k1/1p1nb1pp/p7/3p1p2/3PnB2/3BPN2/PPQ2PPP/2R2RK1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Bc7 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "236"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b1k2r/r2p3p/p1qQpp2/8/5P1P/3R4/P3BKP1/8 w k - 0 1"]
+[PlyCount "3"]
+
+1. Bh5+ Kd8 2. Qxc6 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "237"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/q4ppk/p1r1p2p/2p5/P7/N5P1/4BP1P/1R4K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. R1b7 Qxb7 2. Rxb7 *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "238"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4N3/8/8/PPPPQPPP/RNB1KB1R w KQkq - 0 1"]
+[PlyCount "1"]
+
+1. Nc6+ *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "239"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k3r/pp2qQp1/8/3p1B1p/8/8/P2B1PPP/6K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bg5 Qxg5 2. Qd7# *
+
+[Event "Gain a queen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "240"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5n2/2N2r1p/1p1q1p2/1P2r1p1/4P1P1/5PQP/2R3K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ne7+ Rxe7 2. Qxd5 *
+
